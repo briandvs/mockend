@@ -3,6 +3,15 @@
     "lastName": { "string": {} },
     "firstName": { "string": {} },
     "middleInitial": { "string": {} },
-    "memberID": { "string": {} }
+    "memberID": { "string": {} },
+    "dobDay": { "string": {} },
+    "dobMonth": { "string": {} },
+    "dobYear": { "string": {} },
+    "patientAddressLn1": { "string": {} },
+    "patientAddressLn2": { "string": {} },
+    "patientAddressCity": { "string": {} },
+    "patientAddressState": { "string": {} },
+    "patientAddressZip": { "string": {} },
+    "patientPhone": { "string": {} },
   }
 }
