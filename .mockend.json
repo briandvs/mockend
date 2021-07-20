@@ -3,6 +3,6 @@
     "lastName": { "string": {} },
     "firstName": { "string": {} },
     "middleInitial": { "string": {} },
-    "memberId": { "string": {} },
-  },
+    "memberId": { "string": {} }
+  }
 }
