@@ -4,9 +4,6 @@
     "firstName": { "string": {} },
     "middleInitial": { "string": {} },
     "memberId": { "string": {} },
-    "comments": {
-      "hasMany": "Comment"
-    }
   },
   "Comment": {
     "body": { "string": {} },
