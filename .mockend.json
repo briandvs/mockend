@@ -4,15 +4,6 @@
     "firstName": { "string": {} },
     "middleInitial": { "string": {} },
     "memberId": { "string": {} },
-    "dobDay": { "string": {} },
-    "dobMonth": { "string": {} },
-    "dobYear": { "string": {} },
-    "patientAddressLn1": { "string": {} },
-    "patientAddressLn2": { "string": {} },
-    "patientAddressCity": { "string": {} },
-    "patientAddressState": { "string": {} },
-    "patientAddressZip": { "string": {} },
-    "patientPhone": { "string": {} },
     "comments": {
       "hasMany": "Comment"
     }
