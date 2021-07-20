@@ -4,5 +4,5 @@
     "firstName": { "string": {} },
     "middleInitial": { "string": {} },
     "memberId": { "string": {} },
-  }
+  },
 }
