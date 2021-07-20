@@ -4,11 +4,5 @@
     "firstName": { "string": {} },
     "middleInitial": { "string": {} },
     "memberId": { "string": {} },
-  },
-  "Comment": {
-    "body": { "string": {} },
-    "post": {
-      "belongsTo": "Post"
-    }
   }
 }
