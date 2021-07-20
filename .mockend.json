@@ -12,6 +12,6 @@
     "patientAddressCity": { "string": {} },
     "patientAddressState": { "string": {} },
     "patientAddressZip": { "string": {} },
-    "patientPhone": { "string": {} },
+    "patientPhone": { "string": {} }
   }
 }
